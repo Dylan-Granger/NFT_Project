@@ -1,0 +1,8 @@
+node_modules
+.env
+/artifacts
+/.vscode
+/cache
+/scripts/__pycache__
+/database/NFT metadata
+.DS_Store
